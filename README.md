@@ -208,3 +208,8 @@ If you're interested in contributing to Badger see [CONTRIBUTING.md](./CONTRIBUT
 - Please use [discuss.dgraph.io](https://discuss.dgraph.io) for filing bugs or feature requests.
 - Follow us on Twitter [@dgraphlabs](https://twitter.com/dgraphlabs).
 
+
+
+## DataTug
+
+This project is enhanced with [DataTug](https://datatug.app). See the [datatug](./datatug) directory for details.
